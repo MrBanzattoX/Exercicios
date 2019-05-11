@@ -1,0 +1,10 @@
+print("Bemvindo !!")
+num1 = input("Digite um número:")
+num1 = int(num1)
+print("O número digitado é: ", num1)
+num2 = input("Digite mais um número:")
+num2 = int(num2)
+num3 = input("Digite outro número:")
+num3 = int(num3)
+print("A soma destes três números é:", num1 + num2 + num3)
+
